@@ -1,6 +1,6 @@
 # My First Android App
 
-![Image]([file:///C:/Users/Nayara/Pictures/Telareactnative.png](https://cdn.discordapp.com/attachments/843915587134816310/990299129542508564/Telareactnative.png))
+![Image](https://cdn.discordapp.com/attachments/843915587134816310/990299129542508564/Telareactnative.png)
 
 # Conteúdo
 - Conhecendo o React Native
