@@ -1,8 +1,8 @@
 # My First Android App
 
-![Image](file:///C:/Users/Nayara/Pictures/Telareactnative.png)
+![Image]([file:///C:/Users/Nayara/Pictures/Telareactnative.png](https://cdn.discordapp.com/attachments/843915587134816310/990299129542508564/Telareactnative.png))
 
-#Conteúdo
+# Conteúdo
 - Conhecendo o React Native
  1. O que é react-native?
  2. O que é cross-platform?
